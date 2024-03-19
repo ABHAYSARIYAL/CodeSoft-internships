@@ -1,4 +1,3 @@
-package Random_Number_guess;
 import java.util.Scanner;
 
 import java.util.Random;
