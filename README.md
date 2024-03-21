@@ -3,8 +3,8 @@ Over the past few weeks, I've had the incredible opportunity to participate in t
 
 Here are the 5 tasks I completed during the internship:
 
-1️⃣ [Number Guess Game]: In this program a random number between 1-100 is genrated by program and user have to
-guess the number.
+1️⃣ [Number Guess Game]: In this program a random number between 1-100 is genrated by program and user have to guess the number.
+
 2️⃣ [Grade Calculator]: In this program it takes input from the user (marks of student) and then the program will show the average marks , percentage and Grades.
 
 3️⃣ [Currency Converter]: In this program i use API which fetch the current exchange rates and when user enter the price it will convert it in desired currency.
